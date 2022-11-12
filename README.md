@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himusharier&label=Profile%20views&color=0e75b6&style=flat" alt="himusharier" /> </p>
 
-I’m currently working with [BSE PRESS](https://bsepress.com/)
+I’m currently working with [BSE PRESS](https://bsepress.com/) & [CodeBug](https://codebug.dev/)
 
 I’m currently learning **Laravel**
 
