@@ -9,7 +9,7 @@ I’m currently learning **Laravel**
 
 Ask me about **PHP**
 
-How to reach me: **himusharier@gmail.com**
+How to reach me: **himusharier@gmail.com** or, **hello@himusharier.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
