@@ -7,7 +7,7 @@ I’m currently working with [BSE PRESS](https://bsepress.com/) (a journal publi
 
 I’m currently learning **Java**.
 
-Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **Oracle Database**, **MySQL**, **PHP**.
+Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **Oracle Database**, **PostgreSQL**, **MySQL**, **PHP**.
 
 How to reach me: **himusharier@gmail.com** or, **bm19.bot@bu.ac.bd**
 
