@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himusharier&label=Profile%20views&color=0e75b6&style=flat" alt="himusharier" /> </p>
 
-I’m currently working with [BSE PRESS](https://bsepress.com/) (a journal publication company).
+🏋️ I’m currently training with [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/).
 
-I’m currently learning **Java**.
+🌱 I’m currently learning **Java**, **Angular**, **Flutter**.
 
-Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**.
+💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**.
 
-How to reach me: **himusharier@gmail.com** or, **bm19.bot@bu.ac.bd**
+📫 How to reach me: **himusharier@gmail.com** or, **bm19.bot@bu.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
