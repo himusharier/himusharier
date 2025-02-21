@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **Java**, **Angular**, **Flutter**.
 
-💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**.
+💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Java**, **JSP**, **JSF**.
 
 📫 How to reach me: **himusharier@gmail.com** or, **bm19.bot@bu.ac.bd**
 
