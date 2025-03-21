@@ -5,9 +5,9 @@
 
 🏋️ I’m currently training with [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/).
 
-🌱 I’m currently learning **Java**, **Angular**, **Flutter**.
+🌱 I’m currently learning **Java**, **Spring**, **Spring Boot**.
 
-💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Java**, **JSP**, **JSF**.
+💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Java**, **JSP**, **JSF**, **Angular**.
 
 📫 How to reach me: **himusharier@gmail.com** or, **bm19.bot@bu.ac.bd**
 
