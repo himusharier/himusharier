@@ -17,3 +17,10 @@
 <a href="https://fb.com/sharier.himu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharier.himu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sharier-himu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himusharier" height="30" width="40" /></a>
 </p>
+
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himusharier&layout=donut&langs_count=20" alt="himusharier" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himusharier&" alt="himusharier" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himusharier&show_icons=true&locale=en" alt="himusharier" /></p>
