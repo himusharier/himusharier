@@ -19,8 +19,6 @@
 </p>
 
 <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himusharier&layout=donut&theme=transparent&langs_count=20" alt="himusharier" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himusharier&layout=donut&theme=transparent&langs_count=20&hide_progress=true" alt="himusharier" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=himusharier&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=450&card_height=200" alt="himusharier" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himusharier&show_icons=true&theme=transparent&locale=en&card_width=450" alt="himusharier" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himusharier&show_icons=true&theme=transparent&locale=en&card_width=450&card_height=350" alt="himusharier" /></p>
