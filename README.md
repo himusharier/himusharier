@@ -5,7 +5,7 @@
 
 🏋️ Completed training with [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/).
 
-🌱 I’m currently learning **Java**, **Spring**, **Spring Boot**, **Flutter**.
+🌱 I’m currently learning **Java**, **Spring Boot**, **Flutter**.
 
 💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **Java**, **JSP**, **JSF**, **Angular**.
 
