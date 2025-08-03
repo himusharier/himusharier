@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himusharier&label=Profile%20views&color=0e75b6&style=flat" alt="himusharier" /> </p>
 
+🏢 Currently working at **Nirupon Limited** as an **Associate Software Engineer**
+
 🏋️ Completed training with [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/).
 
 🌱 I’m currently learning **Java**, **Spring Boot**, **Flutter**.
