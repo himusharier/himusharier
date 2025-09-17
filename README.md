@@ -23,4 +23,4 @@
 <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himusharier&layout=donut&theme=transparent&langs_count=10&hide_progress=true" alt="himusharier" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himusharier&show_icons=true&theme=transparent&locale=en&card_width=450&card_height=350" alt="himusharier" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himusharier&show_icons=true&theme=transparent&locale=en&card_width=450&card_height=350&include_all_commits=true&count_private=true" alt="himusharier" /></p>
