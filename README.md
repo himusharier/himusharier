@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himusharier&label=Profile%20views&color=0e75b6&style=flat" alt="himusharier" /> </p>
 
-🏢 Currently working at **Nirupon Limited** as an **Associate Software Engineer**
+🏢 Currently working at **Nirupon Limited** as an **Associate Software Engineer**.
 
 🏋️ Completed training with [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/).
 
@@ -11,7 +11,7 @@
 
 💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **GitHub**, **Markdown**, **Java**, **JSP**, **JSF**, **JasperReports**, **Angular**, **Spring**, **Spring Boot**, **Android**, **Flutter**, **Regex**, **Jira**, **Confluence**, **GitLab**, **Docker**.
 
-📫 How to reach me: **himusharier@gmail.com** or, **bm19.bot@bu.ac.bd**
+📫 How to reach me: **himusharier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
