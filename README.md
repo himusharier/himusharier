@@ -20,6 +20,10 @@
 <a href="https://www.linkedin.com/in/sharier-himu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himusharier" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=himusharier&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
 <!-- <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himusharier&layout=donut&theme=transparent&langs_count=10&hide_progress=true" alt="himusharier" /></p>
 
