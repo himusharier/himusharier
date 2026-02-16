@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Java**, **Spring Boot**, **Angular**, **Microservices**.
 
-💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **GitHub**, **Markdown**, **Java**, **JSP**, **JSF**, **JasperReports**, **Angular**, **Spring**, **Spring Boot**, **Android**, **Flutter**, **Regex**, **Jira**, **Confluence**, **GitLab**, **Docker**.
+💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **GitHub**, **Markdown**, **Java**, **JSP**, **JSF**, **JasperReports**, **Angular**, **Spring**, **Spring Boot**, **Android**, **Flutter**, **Regex**, **Jira**, **Confluence**, **GitLab**, **Docker**, **React**.
 
 📫 How to reach me: **himusharier@gmail.com**
 
