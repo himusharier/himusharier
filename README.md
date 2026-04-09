@@ -7,7 +7,7 @@
 
 🏋️ Completed training with [IsDB-BISEW IT Scholarship Programme](https://www.isdb-bisew.org/).
 
-🌱 I’m currently learning **Java**, **Spring Boot**, **Angular**, **Microservices**.
+🌱 I’m currently learning **Java**, **Spring Boot**, **Angular**, and **PostgreSQL** as part of microservices.
 
 💬 Ask me about: **HTML**, **CSS**, **JavaScript**, **jQuery**, **PHP**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **GitHub**, **Markdown**, **Java**, **JSP**, **JSF**, **JasperReports**, **Angular**, **Spring**, **Spring Boot**, **Android**, **Flutter**, **Regex**, **Jira**, **Confluence**, **GitLab**, **Docker**, **Portainer**, **React**, **Next.js**, **Express.js**, **Node.js**.
 
