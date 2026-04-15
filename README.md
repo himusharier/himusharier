@@ -15,9 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wa.me/+8801867849219" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="himusharier" height="30" width="40" /></a>
-<a href="https://fb.com/sharier.himu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharier.himu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sharier-himu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himusharier" height="30" width="40" /></a>
+  <span>
+    <a href="https://wa.me/+8801867849219"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30"></a>
+    <a href="https://fb.com/sharier.himu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"></a>
+    <a href="https://www.linkedin.com/in/sharier-himu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"></a>
+  </span>
 </p>
 
 <p align="center">
