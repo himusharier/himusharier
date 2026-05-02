@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Java**, **Spring Boot**, **Angular**, and **PostgreSQL** as part of microservices.
 
-💬 Ask me about: **HTML**, **CSS**, **SCSS**, **JavaScript**, **jQuery**, **PHP**, **Laravel**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **GitHub**, **Markdown**, **Java**, **JSP**, **JSF**, **JasperReports**, **Angular**, **Spring**, **Spring Boot**, **Android**, **Flutter**, **Regex**, **Jira**, **Confluence**, **GitLab**, **Docker**, **Portainer**, **VPS**, **Ubuntu Server**, **NGINX**, **Node.js**, **React**, **Next.js**, **Express.js**.
+💬 Ask me about: **HTML**, **CSS**, **SCSS**, **JavaScript**, **jQuery**, **PHP**, **Laravel**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **GitHub**, **Markdown**, **Java**, **JSP**, **JSF**, **JasperReports**, **Angular**, **Spring**, **Spring Boot**, **JWT**, **Android**, **Flutter**, **Regex**, **Jira**, **Confluence**, **GitLab**, **Docker**, **Portainer**, **VPS**, **Ubuntu Server**, **NGINX**, **Node.js**, **React**, **Next.js**, **Express.js**.
 
 📫 How to reach me: **himusharier@gmail.com**
 
