@@ -17,8 +17,8 @@
 <p align="left">
   <span>
     <a href="https://wa.me/+8801867849219"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30"></a>
-    <a href="https://fb.com/sharier.himu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"></a>
     <a href="https://www.linkedin.com/in/sharier-himu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"></a>
+    <a href="https://fb.com/sharier.himu"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"></a>
   </span>
 </p>
 
