@@ -9,8 +9,8 @@
 
 🌱 I’m currently learning **Java**, **Spring Boot**, **Angular** and **PostgreSQL** as part of microservices.
 
-💻 Tools & Technologies I’ve Worked With:<br>
-**HTML**, **CSS**, **SCSS**, **JavaScript**, **jQuery**, **PHP**, **Laravel**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **GitHub**, **GitLab**, **Markdown**, **Java**, **JSP**, **JSF**, **JasperReports**, **Angular**, **Spring**, **Spring Boot**, **Hibernate**, **Spring Security**, **JWT**, **Regex**, **Jira**, **Confluence**, **Ubuntu Server**, **Docker**, **Portainer**, **NGINX**, **cPanel**, **Node.js**, **React**, **Next.js**, **Express.js**.
+💻 Tools & Technologies I’ve Explored:<br>
+**HTML**, **CSS**, **SCSS**, **JavaScript**, **jQuery**, **PHP**, **Laravel**, **MySQL**, **Oracle Database**, **PostgreSQL**, **UML**, **Git**, **GitHub**, **GitLab**, **Markdown**, **Java**, **JSP**, **JSF**, **JasperReports**, **Angular**, **Spring**, **Spring Boot**, **Hibernate**, **Spring Security**, **JWT**, **Regex**, **Jira**, **Confluence**, **Android**, **Flutter**, **Dart**, **Ubuntu Server**, **Docker**, **Portainer**, **NGINX**, **cPanel**, **Node.js**, **React**, **Next.js**, **Express.js**.
 
 📫 How to reach me: **himusharier@gmail.com**
 
