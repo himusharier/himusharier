@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Sharier Himu</h2>
 <!-- <h3 align="center">A passionate java developer from Bangladesh</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himusharier&label=Profile%20views&color=0e75b6&style=flat" alt="himusharier"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=himusharier&label=Profile%20views&color=0e75b6&style=flat" alt="himusharier"/></p>
 
 🏢 Currently working at **Nirupon Limited** as an **Associate Software Engineer**.
 
